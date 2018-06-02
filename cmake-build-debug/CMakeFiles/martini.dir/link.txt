@@ -1,0 +1,1 @@
+/Users/memcpy/clang+llvm-5.0.1-final-x86_64-apple-darwin/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/martini.dir/main.cpp.o  -o martini 
